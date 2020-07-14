@@ -2,20 +2,32 @@ import java.util.ArrayList;
 
 public class Library {
 
-    private String name;
+    private int capacity;
     private ArrayList<Book> stock;
 
-    public Library(String name) {
-        this.name = name;
+
+    public Library(int capacity) {
+        this.capacity = capacity;
         this.stock = new ArrayList<Book>();
+
+    }
+
+    public int getCapacity() {
+        return capacity;
+    }
+
+    public ArrayList<Book> getStock() {
+        return stock;
     }
 
     public int stockCount(){
         return this.stock.size();
     }
 
-    public void add(Book book) {
-        this.stock.add(book);
+    public void addBook(Book book) {
+        if (this.stockCount() < this.capacity){
+            this.stock.add(book);
+        }
     }
 
     public Book removeFromStock(){
@@ -25,4 +37,6 @@ public class Library {
         }
         return bookBorrowed;
     }
+
+
 }
