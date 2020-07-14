@@ -3,16 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d834dc46-d6bf-4347-98f6-b8d0dd520c08" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Borrower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Borrower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BorrowerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/LibraryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Book.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Borrower.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Borrower.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Library.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/BorrowerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BorrowerTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LibraryTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,22 +108,22 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="533" y="169" key="#com.intellij.ide.util.MemberChooser/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594748377126" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1594750262574">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1594751839104">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594750262574" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1594750262574">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594751839104" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1594751839103">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594750262574" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1594750262573">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594751839103" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1594751839103">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594750262573" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1594750262574">
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594751839103" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1594751839104">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594750262574" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/1440.123.1280.777@0.23.1440.877" timestamp="1594751839104" />
     <state width="1398" height="285" key="GridCell.Tab.1.bottom" timestamp="1594747070074">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

@@ -18,8 +18,8 @@ public class Borrower {
         return this.collection.size();
     }
 
-    public void borrow(Library library, Book book){
-        Object bookBeingBorrowed = library.removeFromStock();
+    public void borrowBook(Library library, Book book){
+        Book bookBeingBorrowed = library.removeFromStock();
         if(bookBeingBorrowed != null){
             this.collection.add(book);
         }

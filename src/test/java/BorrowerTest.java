@@ -39,7 +39,7 @@ public class BorrowerTest {
         library.addBook(book2);
         library.addBook(book3);
         library.addBook(book4);
-        borrower.borrow(library, book2);
+        borrower.borrowBook(library, book2);
         assertEquals(1, borrower.getCollection());
         assertEquals(3, library.stockCount());
     }
