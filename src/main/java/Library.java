@@ -24,6 +24,10 @@ public class Library {
         return this.stock.size();
     }
 
+    public boolean checkStock(Book book){
+        return this.stock.contains(book);
+    }
+
     public void addBook(Book book) {
         if (this.stockCount() < this.capacity){
             this.stock.add(book);
