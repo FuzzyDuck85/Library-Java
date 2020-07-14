@@ -14,11 +14,16 @@ public class LibraryTest {
 
     @Before
     public void before(){
-        library = new Library(5);
+        library = new Library("Craighead Public Library",5);
         book1 = new Book ("Jurassic Park", "Michael Crichton", "Science Fiction");
         book2 = new Book ("Darkly Dreaming Dexter", "Jeff Lindsay", "Thriller");
         book3 = new Book ("A Game of Thrones", "George R. R. Martin", "Fantasy");
         book4 = new Book ("IT", "Stephen King", "Horror");
+    }
+
+    @Test
+    public void libraryHasName(){
+        assertEquals("Craighead Public Library", library.getName());
     }
 
     @Test

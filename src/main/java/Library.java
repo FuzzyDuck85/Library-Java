@@ -2,14 +2,20 @@ import java.util.ArrayList;
 
 public class Library {
 
+    private String name;
     private int capacity;
     private ArrayList<Book> stock;
 
 
-    public Library(int capacity) {
+    public Library(String name, int capacity) {
+        this.name = name;
         this.capacity = capacity;
         this.stock = new ArrayList<Book>();
 
+    }
+
+    public String getName() {
+        return name;
     }
 
     public int getCapacity() {
